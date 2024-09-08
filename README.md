@@ -24,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/macdee661/leetcode/tree/master/0020-valid-parentheses) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/macdee661/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
