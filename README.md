@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/macdee661/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/macdee661/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/macdee661/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
 ## Depth-First Search
 |  |
