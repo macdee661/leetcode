@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/macdee661/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 ## Hash Table
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/macdee661/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/macdee661/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
