@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1250-longest-common-subsequence](https://github.com/macdee661/leetcode/tree/master/1250-longest-common-subsequence) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/macdee661/leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Breadth-First Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/macdee661/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
+| [1250-longest-common-subsequence](https://github.com/macdee661/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/macdee661/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
