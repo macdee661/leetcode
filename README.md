@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/macdee661/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/macdee661/leetcode/tree/master/0050-powx-n) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/macdee661/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/macdee661/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
