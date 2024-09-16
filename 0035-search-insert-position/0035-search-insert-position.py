@@ -15,5 +15,4 @@ class Solution:
             else:
                 right = middle - 1
         
-        # If we exit the loop, `left` is the insertion point.
         return left
