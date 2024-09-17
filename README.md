@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
 | [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/macdee661/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
