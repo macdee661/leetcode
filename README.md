@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/macdee661/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/macdee661/leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/macdee661/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 ## String
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/macdee661/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/macdee661/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/macdee661/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [1250-longest-common-subsequence](https://github.com/macdee661/leetcode/tree/master/1250-longest-common-subsequence) |
