@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/macdee661/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
+| [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/macdee661/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [1250-longest-common-subsequence](https://github.com/macdee661/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/macdee661/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/macdee661/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/macdee661/leetcode/tree/master/0050-powx-n) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
