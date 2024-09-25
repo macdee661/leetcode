@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/macdee661/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/macdee661/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
 |  |
@@ -129,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/macdee661/leetcode/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/macdee661/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/macdee661/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/macdee661/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
