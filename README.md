@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/macdee661/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
 | [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
+| [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/macdee661/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/macdee661/leetcode/tree/master/0035-search-insert-position) |
+| [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
 ## Math
 |  |
 | ------- |
@@ -142,4 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/macdee661/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
