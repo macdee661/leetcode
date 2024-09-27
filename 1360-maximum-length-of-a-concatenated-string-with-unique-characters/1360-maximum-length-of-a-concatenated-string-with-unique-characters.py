@@ -3,10 +3,7 @@ class Solution:
         def unique(str1, str2):
             letters = set()
             for char in str1:
-                if char not in letters:
-                    letters.add(char)
-                else:
-                    return False
+                letters.add(char)
             for char in str2:
                 if char not in letters:
                     letters.add(char)
