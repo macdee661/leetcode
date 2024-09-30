@@ -1,9 +1,9 @@
-from typing import List
 
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
         citations.sort(reverse=True) 
         h_index = 0
+        print(citations)
         
         for i, citation in enumerate(citations):
             if citation >= i + 1:
@@ -12,3 +12,7 @@ class Solution:
                 break 
                 
         return h_index
+
+
+
+
