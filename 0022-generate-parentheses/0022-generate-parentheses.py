@@ -2,12 +2,7 @@ class Solution:
 
 
     def generateParenthesis(self, n: int) -> List[str]:
-        def opening(string):
-            count = 0
-            for i in string:
-                if i == "(":
-                    count += 1
-            return count
+
         strings = []
     
         def dfs(open_count, close_count, string):
