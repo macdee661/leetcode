@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
 | [0274-h-index](https://github.com/macdee661/leetcode/tree/master/0274-h-index) |
 | [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
+| [0739-daily-temperatures](https://github.com/macdee661/leetcode/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/macdee661/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/macdee661/leetcode/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/macdee661/leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/macdee661/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
