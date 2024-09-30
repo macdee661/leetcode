@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/macdee661/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
 | [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
+| [0274-h-index](https://github.com/macdee661/leetcode/tree/master/0274-h-index) |
 | [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/macdee661/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/macdee661/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/macdee661/leetcode/tree/master/0274-h-index) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/macdee661/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
