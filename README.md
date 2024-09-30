@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/macdee661/leetcode/tree/master/0274-h-index) |
 | [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
+| [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/macdee661/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
+| [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/macdee661/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/macdee661/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/macdee661/leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/macdee661/leetcode/tree/master/0729-my-calendar-i) |
+| [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
 ## Segment Tree
 |  |
 | ------- |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/macdee661/leetcode/tree/master/0274-h-index) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
