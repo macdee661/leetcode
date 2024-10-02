@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/macdee661/leetcode/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
+| [1256-rank-transform-of-an-array](https://github.com/macdee661/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/macdee661/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
+| [1256-rank-transform-of-an-array](https://github.com/macdee661/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/macdee661/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/macdee661/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/macdee661/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/macdee661/leetcode/tree/master/0274-h-index) |
+| [1256-rank-transform-of-an-array](https://github.com/macdee661/leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
