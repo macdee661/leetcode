@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
+| [0684-redundant-connection](https://github.com/macdee661/leetcode/tree/master/0684-redundant-connection) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/macdee661/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/macdee661/leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Memoization
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/macdee661/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/macdee661/leetcode/tree/master/0684-redundant-connection) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/macdee661/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/macdee661/leetcode/tree/master/0684-redundant-connection) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/macdee661/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Search
 |  |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/macdee661/leetcode/tree/master/0409-longest-palindrome) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/macdee661/leetcode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
