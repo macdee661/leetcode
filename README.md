@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/macdee661/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/macdee661/leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
+| [0409-longest-palindrome](https://github.com/macdee661/leetcode/tree/master/0409-longest-palindrome) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [0817-design-hashmap](https://github.com/macdee661/leetcode/tree/master/0817-design-hashmap) |
 | [1256-rank-transform-of-an-array](https://github.com/macdee661/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/macdee661/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/macdee661/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/macdee661/leetcode/tree/master/0212-word-search-ii) |
+| [0409-longest-palindrome](https://github.com/macdee661/leetcode/tree/master/0409-longest-palindrome) |
 | [0749-shortest-completing-word](https://github.com/macdee661/leetcode/tree/master/0749-shortest-completing-word) |
 | [1250-longest-common-subsequence](https://github.com/macdee661/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/macdee661/leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/macdee661/leetcode/tree/master/0043-multiply-strings) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/macdee661/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
