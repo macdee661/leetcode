@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/macdee661/leetcode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/macdee661/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/macdee661/leetcode/tree/master/0050-powx-n) |
+| [0670-maximum-swap](https://github.com/macdee661/leetcode/tree/master/0670-maximum-swap) |
 | [2383-add-two-integers](https://github.com/macdee661/leetcode/tree/master/2383-add-two-integers) |
 ## Backtracking
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/macdee661/leetcode/tree/master/0409-longest-palindrome) |
+| [0670-maximum-swap](https://github.com/macdee661/leetcode/tree/master/0670-maximum-swap) |
 ## Union Find
 |  |
 | ------- |
